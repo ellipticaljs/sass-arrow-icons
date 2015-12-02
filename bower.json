@@ -1,0 +1,44 @@
+{
+  "name": "sass-arrow-icons",
+  "description": "Arrow Icons",
+  "main": "dist/arrows.css",
+  "version":"1.0.2",
+  "authors": [
+    "S. Francis"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "arrow",
+    "icons"
+  ],
+  "homepage": "https://github.com/tachyon1337/sass-arrow-icons",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    ".gitignore",
+    ".npmignore",
+    "gulpfile.js",
+    "lib",
+    "docs",
+    "index.js",
+    "umd.js",
+    "package.json",
+    "demo",
+    "index.html",
+    "build.json",
+    "bundle.json",
+    ".nvmrc",
+    ".eslintrc",
+    "bin",
+    "CHANGELOG.md",
+    "demos",
+    "stylesheets",
+    "_index.scss",
+    "bk",
+    "sassdoc"
+  ]
+}
