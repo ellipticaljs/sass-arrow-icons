@@ -2,7 +2,7 @@
   "name": "sass-arrow-icons",
   "description": "Arrow Icons",
   "main": "dist/arrows.css",
-  "version":"1.0.2",
+  "version":"1.0.3",
   "authors": [
     "S. Francis"
   ],
